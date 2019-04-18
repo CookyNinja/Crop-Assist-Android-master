@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainmenu_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="top"
+        android:layout_marginHorizontal="10dp">
+
+
+        <TextView
+            android:id="@+id/app_name_display_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:text="Crop "
+            android:textSize="70dp"
+            />
+
+
+        <TextView
+            android:id="@+id/app_name_display_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:text="Assist"
+            android:textSize="70dp"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="100dp"
+            android:layout_height="10dp"
+            android:background="@color/white" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginVertical="40dp">
+
+            <Button
+                android:id="@+id/identify_crop_btn"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Identify Crop"
+                android:textSize="20sp"
+                android:backgroundTint="@color/white"
+                android:textAllCaps="false"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:layout_marginVertical="15dp"
+                android:orientation="horizontal"
+                android:background="@color/white"
+                android:backgroundTint="@color/white">
+
+                <TextView
+                    android:id="@+id/tv_select_crop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="Select Crop :  "
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textAllCaps="false"/>
+
+                <Spinner
+                    android:id="@+id/crop_drop_down"
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content"
+                    style="@style/spinner_style"/>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/identify_disease_btn"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Identify Disease"
+                android:textSize="20sp"
+                android:textAllCaps="false"
+                android:backgroundTint="@color/white"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
