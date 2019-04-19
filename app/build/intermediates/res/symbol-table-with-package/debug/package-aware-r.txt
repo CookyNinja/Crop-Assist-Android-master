@@ -725,6 +725,7 @@ drawable design_snackbar_background
 drawable dropdown_border
 drawable ic_action_info
 drawable ic_launcher
+drawable icon_leaf
 drawable mainmenu_background
 drawable navigation_empty_icon
 drawable notification_action_background
@@ -739,6 +740,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rounded_corner
 drawable spinner_arrow
 drawable tile
 drawable tooltip_frame_dark

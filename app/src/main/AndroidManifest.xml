@@ -25,7 +25,7 @@
 
     <application android:allowBackup="true"
         android:label="@string/app_name"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/icon_leaf"
         android:theme="@style/MaterialTheme">
 
         <activity android:name="com.example.android.tflitecamerademo.HomePage"
