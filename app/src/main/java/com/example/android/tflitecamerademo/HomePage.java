@@ -1,6 +1,8 @@
 package com.example.android.tflitecamerademo;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
@@ -28,8 +30,13 @@ public class HomePage extends AppCompatActivity {
     Spinner crop_drop_down = null;
     Button identify_crop_btn = null;
     Button identify_disease_btn = null;
-    String selected_crop = null;
+    String selected_crop = "nothing";
     TextView app_name_display_1, app_name_display_2, tv_select_crop;
+
+
+
+    SharedPreferences pref ;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +44,13 @@ public class HomePage extends AppCompatActivity {
         getSupportActionBar().hide();
         setContentView(R.layout.home_page);
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorPrimaryDark)));
+
+        pref = getApplicationContext().getSharedPreferences("MyPref", MODE_PRIVATE);
+        SharedPreferences.Editor editor = pref.edit();
+
+        //storing initial value in sp
+        editor.putString("crop_selected", selected_crop);
+        editor.commit(); //commit changes
 
         // Spinner element
         crop_drop_down = findViewById(R.id.crop_drop_down);
@@ -62,6 +76,7 @@ public class HomePage extends AppCompatActivity {
 
         // Spinner Drop down elements (types of crops)
         List<String> crop_categories = new ArrayList<String>();
+        crop_categories.add("nothing");
         crop_categories.add("Barley");
         crop_categories.add("Cotton");
         crop_categories.add("Guava");
@@ -93,6 +108,9 @@ public class HomePage extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> parentView, View selectedItemView, int position, long id) {
                 // your code here
                 selected_crop = crop_categories.get(position);
+                //storing initial value in sp
+                editor.putString("crop_selected", selected_crop);
+                editor.commit(); //commit changes
                 Toast.makeText(getApplicationContext(), selected_crop, Toast.LENGTH_SHORT ).show();
             }
 
@@ -101,7 +119,10 @@ public class HomePage extends AppCompatActivity {
                 // your code here
 
                 // select crop at zeroeth index by default
-                selected_crop = crop_categories.get(0);
+                //selected_crop = crop_categories.get(0);
+                selected_crop ="nothing";
+                editor.putString("crop_selected", selected_crop);
+                editor.commit(); //commit changes
                 Toast.makeText(getApplicationContext(), selected_crop, Toast.LENGTH_SHORT ).show();
             }
 
@@ -110,9 +131,13 @@ public class HomePage extends AppCompatActivity {
         identify_disease_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Intent intent = new Intent(HomePage.this, CameraActivity.class);
+                startActivity(intent);
 
             }
         });
 
     }
+
+
 }

@@ -15,6 +15,7 @@ limitations under the License.
 
 package com.example.android.tflitecamerademo;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -22,6 +23,7 @@ import android.app.DialogFragment;
 import android.app.Fragment;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
@@ -45,6 +47,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.support.annotation.NonNull;
+import android.support.v13.app.ActivityCompat;
 import android.support.v13.app.FragmentCompat;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
@@ -54,6 +57,7 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 import java.io.IOException;
@@ -83,6 +87,7 @@ public class Camera2BasicFragment extends Fragment
   private boolean checkedPermissions = false;
   private TextView textView;
   private ImageClassifier classifier;
+  int MY_PERMISSION_ACCESS_COARSE_LOCATION = 100;
 
   /** Max preview width that is guaranteed by Camera2 API */
   private static final int MAX_PREVIEW_WIDTH = 1920;
@@ -289,7 +294,7 @@ public class Camera2BasicFragment extends Fragment
   public void onViewCreated(final View view, Bundle savedInstanceState) {
     textureView = (AutoFitTextureView) view.findViewById(R.id.texture);
     textView = (TextView) view.findViewById(R.id.text);
-  }
+    }
 
   /** Load the model and labels. */
   @Override
@@ -475,6 +480,8 @@ public class Camera2BasicFragment extends Fragment
       if (!cameraOpenCloseLock.tryAcquire(2500, TimeUnit.MILLISECONDS)) {
         throw new RuntimeException("Time out waiting to lock camera opening.");
       }
+
+
       manager.openCamera(cameraId, stateCallback, backgroundHandler);
     } catch (CameraAccessException e) {
       e.printStackTrace();

@@ -38,7 +38,8 @@
         </activity>
 
         <activity android:name="com.example.android.tflitecamerademo.CameraActivity"
-                    android:label="Identify Crop" />
+                    android:label="Identify Crop"
+                    android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

@@ -1,0 +1,2 @@
+anthracnose
+guava_rust

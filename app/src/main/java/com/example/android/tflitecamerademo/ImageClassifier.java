@@ -16,6 +16,8 @@ limitations under the License.
 package com.example.android.tflitecamerademo;
 
 import android.app.Activity;
+import android.app.LauncherActivity;
+import android.content.SharedPreferences;
 import android.content.res.AssetFileDescriptor;
 import android.graphics.Bitmap;
 import android.os.SystemClock;
@@ -36,17 +38,21 @@ import java.util.Map;
 import java.util.PriorityQueue;
 import org.tensorflow.lite.Interpreter;
 
+import static android.content.Context.MODE_PRIVATE;
+
+
 /** Classifies images with Tensorflow Lite. */
 public class ImageClassifier {
+
 
   /** Tag for the {@link Log}. */
   private static final String TAG = "TfLiteCameraDemo";
 
   /** Name of the model file stored in Assets. */
-  private static final String MODEL_PATH = "model_crops.tflite";
+  private static  String MODEL_PATH = "model_crops.tflite";
 
   /** Name of the label file stored in Assets. */
-  private static final String LABEL_PATH = "labels.txt";
+  private static  String LABEL_PATH = "labels.txt";
 
   /** Number of results to show in the UI. */
   private static final int RESULTS_TO_SHOW = 3;
@@ -82,6 +88,8 @@ public class ImageClassifier {
   private static final int FILTER_STAGES = 3;
   private static final float FILTER_FACTOR = 0.4f;
 
+
+
   private PriorityQueue<Map.Entry<String, Float>> sortedLabels =
       new PriorityQueue<>(
           RESULTS_TO_SHOW,
@@ -94,6 +102,31 @@ public class ImageClassifier {
 
   /** Initializes an {@code ImageClassifier}. */
   ImageClassifier(Activity activity) throws IOException {
+
+    SharedPreferences pref = activity.getSharedPreferences("MyPref", MODE_PRIVATE);
+    SharedPreferences.Editor editor = pref.edit();
+
+    String crop_result_from_dropdown = pref.getString("crop_selected", null);
+    if(crop_result_from_dropdown.equals("nothing")){
+      MODEL_PATH = "model_crops.tflite";
+      LABEL_PATH = "labels.txt";
+    }else if(crop_result_from_dropdown.equals("Barley")){
+      MODEL_PATH = "model_barley_disease.tflite";
+      LABEL_PATH = "labels_barley.txt";
+    }else if(crop_result_from_dropdown.equals("Cotton")){
+      MODEL_PATH = "model_cotton_disease.tflite";
+      LABEL_PATH = "labels_cotton.txt";
+    }else if(crop_result_from_dropdown.equals("Guava")){
+      MODEL_PATH = "model_guava_disease.tflite";
+      LABEL_PATH = "labels_guava.txt";
+    }else if(crop_result_from_dropdown.equals("Mustard")){
+      MODEL_PATH = "model_mustard_disease.tflite";
+      LABEL_PATH = "labels_mustard.txt";
+    }else if(crop_result_from_dropdown.equals("Pumpkin")){
+      MODEL_PATH = "model_pumpkin_disease.tflite";
+      LABEL_PATH = "labels_pumpkin.txt";
+    }
+
     tflite = new Interpreter(loadModelFile(activity));
     labelList = loadLabelList(activity);
     imgData =

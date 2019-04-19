@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
+ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
 MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:17:1-31:12
@@ -19,20 +19,20 @@ MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:17:1-31:12
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\5d0ca5531e685481b49ae5ad349b23f9\AndroidManifest.xml:16:1-19:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
 	package
 		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:19:5-51
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
+		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-44:12
+		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:11-69
@@ -49,7 +49,7 @@ ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Andro
 	android:name
 		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:24:19-67
 application
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:5-42:19
+ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:5-43:19
 MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:25:5-29:19
@@ -105,7 +105,9 @@ ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Andro
 	android:name
 		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:36:27-74
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:9-41:53
+ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:9-42:59
+	android:screenOrientation
+		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:42:21-57
 	android:label
 		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:41:21-50
 	android:name

@@ -47,7 +47,8 @@
         </activity>
         <activity
             android:name="com.example.android.tflitecamerademo.CameraActivity"
-            android:label="Identify Crop" />
+            android:label="Identify Crop"
+            android:screenOrientation="portrait" />
 
         <meta-data
             android:name="android.support.VERSION"
