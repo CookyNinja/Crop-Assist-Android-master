@@ -1,2 +1,2 @@
-anthracnose
-guava_rust
+fruit fly damage
+guava rust

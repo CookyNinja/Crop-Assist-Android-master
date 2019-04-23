@@ -1,2 +1,2 @@
-alternaria_blight
-white_rust
+alternaria blight
+white rust

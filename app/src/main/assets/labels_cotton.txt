@@ -1,2 +1,2 @@
-ascochyta_blight
-boll_rot
+ascochyta blight
+boll rot

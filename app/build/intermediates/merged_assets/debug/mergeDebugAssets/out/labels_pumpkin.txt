@@ -1,2 +1,2 @@
-downy_mildew
-southern_blight
+downy mildew
+southern blight
