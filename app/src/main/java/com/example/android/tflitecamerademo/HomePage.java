@@ -30,6 +30,7 @@ public class HomePage extends AppCompatActivity {
     Spinner crop_drop_down = null;
     Button identify_crop_btn = null;
     Button identify_disease_btn = null;
+    Button disease_details_btn = null;
     String selected_crop = "nothing";
     TextView app_name_display_1, app_name_display_2, tv_select_crop;
 
@@ -57,6 +58,7 @@ public class HomePage extends AppCompatActivity {
         identify_crop_btn = findViewById(R.id.identify_crop_btn);
         identify_disease_btn = findViewById(R.id.identify_disease_btn);
         tv_select_crop = findViewById(R.id.tv_select_crop);
+        disease_details_btn = findViewById(R.id.disease_details_btn);
 
         app_name_display_1 = findViewById(R.id.app_name_display_1);
         app_name_display_2 = findViewById(R.id.app_name_display_2);
@@ -71,6 +73,7 @@ public class HomePage extends AppCompatActivity {
         identify_crop_btn.setTypeface(custom_font_pacifico);
         identify_disease_btn.setTypeface(custom_font_pacifico);
         tv_select_crop.setTypeface(custom_font_pacifico);
+        disease_details_btn.setTypeface(custom_font_pacifico);
 
 
 
@@ -111,7 +114,7 @@ public class HomePage extends AppCompatActivity {
                 //storing initial value in sp
                 editor.putString("crop_selected", selected_crop);
                 editor.commit(); //commit changes
-                Toast.makeText(getApplicationContext(), selected_crop, Toast.LENGTH_SHORT ).show();
+                Toast.makeText(getApplicationContext(), selected_crop + " selected", Toast.LENGTH_SHORT ).show();
             }
 
             @Override
@@ -134,6 +137,15 @@ public class HomePage extends AppCompatActivity {
                 Intent intent = new Intent(HomePage.this, CameraActivity.class);
                 startActivity(intent);
 
+            }
+        });
+
+        disease_details_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(HomePage.this, DiseaseDetails.class);
+                intent.putExtra("SELECTED_CROP", selected_crop);
+                startActivity(intent);
             }
         });
 

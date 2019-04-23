@@ -50,6 +50,11 @@
             android:name="com.example.android.tflitecamerademo.CameraActivity"
             android:label="Identify Crop"
             android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.android.tflitecamerademo.DiseaseDetails"
+            android:label="Disease Details"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" />
 
         <meta-data
             android:name="android.support.VERSION"

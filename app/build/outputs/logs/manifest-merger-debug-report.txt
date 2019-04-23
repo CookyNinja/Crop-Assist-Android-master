@@ -1,190 +1,200 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:17:1-31:12
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\5d0ca5531e685481b49ae5ad349b23f9\AndroidManifest.xml:16:1-19:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+MERGED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:17:1-31:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\7a644f3f89f722ea5bfcfd4939ac75a7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\42787f25d4b40770c7dab726475f1af7\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
 	package
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:19:5-51
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-45:12
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:1-50:12
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:21:5-65
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:21:22-62
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:23:5-60
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:23:5-60
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:23:19-57
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:23:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:24:5-70
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:24:19-67
 application
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:5-43:19
-MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:25:5-29:19
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:5-48:19
+MERGED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:25:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\7a644f3f89f722ea5bfcfd4939ac75a7\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\7a644f3f89f722ea5bfcfd4939ac75a7\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:27:9-41
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:28:9-43
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:28:9-43
 	android:allowBackup
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:18-44
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:26:18-44
 	android:theme
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:29:9-45
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:29:9-45
 activity#com.example.android.tflitecamerademo.HomePage
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:31:9-38:20
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:31:9-38:20
 	android:label
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:32:19-51
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:32:19-51
 	android:theme
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:33:19-63
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:33:19-63
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:31:19-79
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:31:19-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:34:13-37:29
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:36:27-74
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:9-42:59
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:9-42:59
 	android:screenOrientation
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:42:21-57
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:42:21-57
 	android:label
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:41:21-50
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:41:21-50
 	android:name
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:19-85
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:40:19-85
+activity#com.example.android.tflitecamerademo.DiseaseDetails
+ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:44:9-47:59
+	android:screenOrientation
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:45:13-44
+	android:theme
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml:44:19-85
 uses-sdk
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:21:5-23:58
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:5:5-7:41
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\5d30e196536387ca34da2c60413358aa\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\5d0ca5531e685481b49ae5ad349b23f9\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\5d0ca5531e685481b49ae5ad349b23f9\AndroidManifest.xml:18:5-42
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\7a644f3f89f722ea5bfcfd4939ac75a7\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\7a644f3f89f722ea5bfcfd4939ac75a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\42787f25d4b40770c7dab726475f1af7\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\42787f25d4b40770c7dab726475f1af7\AndroidManifest.xml:18:5-42
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pooja\Downloads\Crop-Assist-Android-master\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arshi\Desktop\Crop-Assist-Android-master\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\add9778261c89a875128df04f1fe3ec5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v13:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\49c51afaa78c89a433041aaa7c8ad036\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\d2d746a88adf781e5273b1d455f59c54\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\8ad43f414a2f57466255af5b18191f30\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\fce9db0725e061b803fd4f6b84dd5d79\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\24fa72125c1fd92844bcdb1f8a34d724\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\fb188fe698ecb2cbbf26277ef98f1908\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\fe121f675f676a2d561b9bd81b6bc413\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\59ae52989651a1772066557e9a691c4d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\318f2bbb49a62c970707d9d3aa4f7f82\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8fdb05677c82557168953f32e7f5a9a3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\464661826bd044e34a5b20fb5dfdfb85\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\9472140ac88797b009ca96e9d7df31c4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0.aar\68bc9206163c5cb1b2b7bb2908cad46a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\ed1d847ce353ea7c1dd4a9243b9dda2a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\55328aaaf847ecac0db1951e22bae026\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\f4f590174d0d97d74b8a6046c80c0b04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\6b0baf2c79a3733c7365595308b62d55\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\48c4638ca082f16545d1d4955f8263b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\42f5e3fcaad55a90af4d0db52339ef28\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0364ac504118be072181c94a16ea0219\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\20309338fac16315c57dc6ae3b2c4b87\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\46c482a0d90ca87104ec4e9be86391f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6413a0a1cd9670c6bbeef2b8acb317f9\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.0.0] C:\Users\pooja\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\0d44d134c2558706e52dc908fd38c8e7\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.0.0] C:\Users\arshi\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\31bbfef1562a2194253aa1e0c862a434\AndroidManifest.xml:27:13-51

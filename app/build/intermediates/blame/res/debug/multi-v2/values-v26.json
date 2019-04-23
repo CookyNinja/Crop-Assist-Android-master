@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pooja\\Downloads\\Crop-Assist-Android-master\\Crop-Assist-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\arshi\\Desktop\\Crop-Assist-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pooja\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\0d44d134c2558706e52dc908fd38c8e7\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\arshi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\31bbfef1562a2194253aa1e0c862a434\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pooja\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\add9778261c89a875128df04f1fe3ec5\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\arshi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\9472140ac88797b009ca96e9d7df31c4\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
